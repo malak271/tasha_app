@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "772004622328",
+    "project_id": "tasha-a59e5",
+    "storage_bucket": "tasha-a59e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772004622328:android:273f34a6dce0d47b35b00d",
+        "android_client_info": {
+          "package_name": "com.example.tasha_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772004622328-hnrtbi3re9lmhk7aodnbdt62gverjbo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tasha_app",
+            "certificate_hash": "558e590ab3d8c0f5f4e37c37bfdc0c5faa188481"
+          }
+        },
+        {
+          "client_id": "772004622328-va4b8btppk188in0rqr8qog3udvp6u87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUSWHg1Tb-Dy9i_oX4YyEDqq7069hygxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772004622328-va4b8btppk188in0rqr8qog3udvp6u87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
